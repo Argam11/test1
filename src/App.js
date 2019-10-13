@@ -3,7 +3,7 @@ import "./App.css";
 
 import getComponents from "./getComponents";
 
-let Component = getComponents(3, 1, 1, 1);
+let Component = getComponents(2, 1);
 
 if (!Component) Component = () => <div>11</div>;
 function App() {
