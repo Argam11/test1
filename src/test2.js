@@ -1,7 +1,7 @@
 import React from "react";
 
 function Test2({ x, y }) {
-    console.log(8888888888);
+    console.log("created my new branch");
 
     return (
         <div className="Test">
