@@ -1,7 +1,7 @@
 import React from "react";
 
 function Test2({ x, y }) {
-    console.log(11111111111111);
+    console.log(222222);
 
     return (
         <div className="Test">
