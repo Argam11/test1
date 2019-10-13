@@ -1,8 +1,6 @@
 import React from "react";
 
 function Test2({ x, y }) {
-    console.log(11);
-
     return (
         <div className="Test">
             <h1>Test2</h1>
