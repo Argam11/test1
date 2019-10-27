@@ -11,3 +11,5 @@ function Test2({ x, y }) {
 }
 
 export default Test2;
+console.log(11);
+
